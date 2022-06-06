@@ -1,6 +1,7 @@
 ## Parsing yaml
 
-You need to find out what user has admin permissions and return the **full name** of the user
+You need to find out what user has admin permissions and return the **full name** of the user.
+
 Information about file structure is available
 ```
 - username
