@@ -2,7 +2,7 @@
 
 You need to find out what user has admin permissions and return the **full name** of the user.
 
-Information about file structure is available
+File structure information is available:
 ```
 - username
   - name
