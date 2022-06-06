@@ -6,4 +6,4 @@ def parse_yaml(url):
     
     # your code here
     
-    return name_of_the user
+    return name_of_the_user
